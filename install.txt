@@ -1,0 +1,21 @@
+Executing RMI server and client
+
+1. Clone RMI Server and RMI Client from 'DesktopClient_RMIServer_SensorClient-feature-connectapi' repository
+2. Open it using 'NetBeans' IDE
+3. This repository contains RMI client, RMI server and Sensor app
+4. At first, run 'SensorApp' as a java application, this will change sensor's co2 level and smoke level timely
+5. Then run 'RMI Server' as a java application, now server is up and running
+6. Finally run 'RMI Client' as a java application, give username as 'admin' and password as 'admin'
+
+
+Executing REST API and web client
+
+1. Clone REST API from 'Fire-Alarm-Web-API' repository
+2. Open it using 'WebStorm' IDE.
+3. Install node modules using 'npm install' command.
+4. Run restful web service using 'npm start' command.
+
+5. Clone Web client from 'WebClient' repository and open it using 'WebStorm' IDE.
+6. Run it using 'npm start' command.
+7. Finally run SMSService and EmailService
+
